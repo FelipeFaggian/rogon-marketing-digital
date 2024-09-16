@@ -159,7 +159,7 @@ ul {
 
 	* {
 		font-size: 10px;
-	}
+		overflow-x: hidden;	}
 
 	.table-side-to-side {
 		display: flex;
