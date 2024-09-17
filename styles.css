@@ -238,7 +238,7 @@ ul {
 
   @media only screen and (min-width: 760px) {
 	* {
-		font-size: 15px;
+		font-size: 20px;
 		
 	}
 
@@ -249,7 +249,7 @@ ul {
 
   @media only screen and (min-width: 800px) {
 	* {
-		font-size: 20px;
+		font-size: 15px;
 		
 	}
 
