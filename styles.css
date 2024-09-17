@@ -161,7 +161,7 @@ ul {
 	width: 400px;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1300px) {
 
 	#stick-midias-img {
 		height: 150px;
@@ -236,12 +236,25 @@ ul {
 
   }
 
-  @media only screen and (min-width: 800px) {
+  @media only screen and (min-width: 760px) {
 	* {
 		font-size: 15px;
+		
 	}
 
 	h5 {
 		padding-left: 50px;
 	}
   }
+
+  @media only screen and (min-width: 800px) {
+	* {
+		font-size: 20px;
+		
+	}
+
+	h5 {
+		padding-left: 50px;
+	}
+  }
+
