@@ -3,10 +3,10 @@
     "short_name": "Rogon",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "black",
+    "background_color": "white",
     "description": "Rogon",
     "orientation": "portrait-primary",
-    "theme_color": "black",
+    "theme_color": "white",
     "icons": [
       {
         "src": "white-rocket.png",
