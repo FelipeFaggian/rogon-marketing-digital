@@ -1,6 +1,7 @@
 * {
 	color: #000000;;
 	font-weight: 900;
+	letter-spacing: 1px;
 }
 
 .arvo-regular {
@@ -150,8 +151,8 @@ ul {
 }
 
 #cell-footer-img {
-	height: 400px;
-	width: auto;
+	height: 300px;
+	width: 300px;
 }
 
 #world-midia-img {
@@ -159,7 +160,7 @@ ul {
 	width: 400px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1050px) {
 
 	* {
 		overflow-x: hidden;
@@ -214,14 +215,93 @@ ul {
 	}
 
 	#world-midia-img {
-		height: 800px;
-		width: 800px;
+		height: 300px;
+		width: 300px;
 	} 
 
 	#cell-footer-img {
 		height: 300px;
 		width: 300px;
+		margin-right: 50px;
+	}
+}
+
+@media (min-width: 750px) {
+
+	* {
+		font-size: 20px;
+	}
+	.text-container-2 {
+		font-size: 20px;
+	}
+}
+
+@media (min-width: 750px) {
+
+	* {
+		font-size: 20px;
+	}
+	.text-container-2 {
+		font-size: 20px;
+	}
+
+	#whats-button {
+		height: 150px;
+		width: 300px;
+	}
+
+	#rocket-img {
+		height: 500px;
+		width: 500px;
+	}
+
+	#rocket-container-2-img {
+		height: 300px;
+		width: 300px;
+	}
+
+	.text-container-2 {
+		font-size: 20px;
+	}
+
+	#img-ecommerce {
+		height: 300px;
+		width: 300px;
+	}
+
+	#camera-img {
+		height: 300px;
+		width: 300px;
+	}
+
+	#telemarketing-img {
+		height: 300px;
+		width: 300px;
+	}
+
+	#lucas-img {
+		height: 300px;
+		width: 300px;
+	}
+
+	#victor-img {
+		height: 300px;
+		width: 300px;
+	}
+
+	.flex-container-line {
+		flex-direction: column;
+	}
+
+	#world-midia-img {
+		height:300px;
+		width: 300px;
+
+	} 
+
+	#cell-footer-img {
+		height: 500px;
+		width: 500px;
 	}
 }
   
-
