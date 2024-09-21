@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Rogon",
+    "description": "Marketing Digital",
+    "version": "1.0",
+    "icons": {
+      "16": "assets/white-rocket.png",
+      "32": "assets/white-rocket.png",
+      "48": "assets/white-rocket.png",
+      "128": "assets/white-rocket.png"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "host_permissions": [
+      "https://felipefaggian.github.io/rogon-marketing-digital/"
+    ],
+    "permissions": [
+      "storage"
+    ]
+  }
